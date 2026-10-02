@@ -1,6 +1,6 @@
 {
-    "name": "Sandy Music",
-    "short_name": "Sandy",
+    "name": "NikaMusic",
+    "short_name": "Nika",
     "description": "Modern music player with infinite radio.",
     "start_url": "/",
     "display": "standalone",

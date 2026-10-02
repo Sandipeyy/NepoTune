@@ -8,8 +8,8 @@
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/Sandipeyy/NepoTune.git
-    cd NepoTune
+    git clone https://github.com/Sandipeyy/NikaMusic.git
+    cd NikaMusic
     ```
 
 2.  **Install dependencies**
